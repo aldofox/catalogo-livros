@@ -102,3 +102,5 @@ Projeto com fins educacionais. Livre para uso e modificação.
 ---
 
 Desenvolvido por **Aldo da Silveira**
+
+Catálogo de livros com busca por API, filtro por idioma e persistência em banco de dados (Spring Boot + PostgreSQL)
